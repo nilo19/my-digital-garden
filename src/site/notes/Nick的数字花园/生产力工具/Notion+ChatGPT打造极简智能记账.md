@@ -50,7 +50,7 @@
 3. 打开Notion，复制我制作的[财务管理模板](https://nicktmpl.notion.site/1899fdb3419f487b865a48db821e1f66?pvs=4)。
 4. 获取这个database，请参考[Notion官方文档](https://developers.notion.com/reference/retrieve-a-database)。
 5. 使用我制作的[快捷指令](https://www.icloud.com/shortcuts/cf6cc6a091b94ba681c376d297171c19)，用Safari浏览器打开链接。
-6. 将如图所示“文本”中的`"database_id"`替换为你的database ID。![IMG_databse_id.jpg](/img/user/IMG_databse_id.jpg)
+6. 将如图所示“文本”中的`"database_id"`替换为你的database ID。
 7. 大功告成，开始使用。使用语音或文字输入，并核对分类是否正确，然后上传Notion database。
 
 ## 备注
