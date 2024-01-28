@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Nick的数字花园/生产力工具/Notion+ChatGPT打造极简智能记账workflow/","tags":["blog"]}
+{"dg-publish":true,"permalink":"/Nick的数字花园/生产力工具/Notion+ChatGPT打造极简智能记账workflow/","tags":["blog/productivity"]}
 ---
 
 ## 记账app的痛点
