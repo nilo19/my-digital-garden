@@ -37,7 +37,7 @@ Perplexity支持设置Focus来fine-tune它的功能。例如，我主要想生�
 
 总结一下，Perplexity.AI是我用得非常频繁的AIGC工具，它的功能十分丰富，并且使用起来无比丝滑，我真的想把他推荐给每一个人。
 
-[## Arc search](https://arc.net/blog/arc-search): 或许是浏览器的未来？
+## [Arc search](https://arc.net/blog/arc-search): 或许是浏览器的未来？
 如果说水平超高的Perplexity代表着AI的现在，那么或许Arc search代表的就是未来。ARC search是由Arc浏览器的开发商[The Browser Company](https://thebrowser.company/)开发的一款ios app。作为Arc的死忠用户，我在第一时间就下载体验了一下。果然，我在一次被The Browser Company的无敌美学设计深深打动了。
 ![arc_search.jpg](/img/user/Nick%E7%9A%84%E6%95%B0%E5%AD%97%E8%8A%B1%E5%9B%AD/img/arc_search.jpg)
 只需要点击“Browse for Me”，AI就会解析你的问题，然后生成一幅简洁好看的网页，上面会列举要点，以及相关的链接和图片。这些功能似乎Bing AI，Perplexity也能做到，但是Arc Search的实现是如此的优雅，一如它的大哥Arc浏览器一样。
